@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Gad — a Computer Science student at Kennesaw State University passionate about building AI-powered systems that solve real-world problems.<br>🚀 I’m currently working on projects in machine learning, cybersecurity, and intelligent automation.<br>💼 Headstarter AI Fellow | Researcher | Aspiring Software Engineer<br>🧠 I love turning innovative ideas into functional, scalable code.<br>📫 Reach me at gad.imani@yahoo.com
+👋 Hi, I’m Gad — a Computer Science student at Kennesaw State University, passionate about building AI-powered systems that solve real-world problems.<br>🚀 I’m currently working on projects in machine learning, cybersecurity, and intelligent automation.<br>💼 Researcher | Aspiring Software Engineer<br>🧠 I love turning innovative ideas into functional, scalable code.<br>📫 Reach me at gad.imani@yahoo.com
 
 
 ## 🌐 Socials:
